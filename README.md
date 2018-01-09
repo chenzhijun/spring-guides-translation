@@ -1,13 +1,15 @@
 # 简介
 
 <!-- 随着微服务的流行，Spring Boot/Cloud的崛起，Spring Source几乎再一次要成为Java的代名词。那么我们如何才能快速的学习和入门Spring呢？除了很多国内高手编写的一些教程之外，有没有更为官方的指导呢？实际上，在Spring官方网站中是有非常优秀的教程页面的：[https://spring.io/guides。](https://spring.io/guides) -->
-SpringForAll 翻译小组是[(www.spring4all.com)](www.spring4all.com)官方组织的翻译团队，负责从国外优秀技术网站翻译以Spring等为核心的技术，资讯，教程等内容。
+SpringForAll 翻译小组是[(www.spring4all.com)](www.spring4all.com)官方组织的翻译团队，负责从国外优秀技术网站翻译以Spring等为核心的技术教程，资讯等内容。
 
 翻译小组目前已经拥有接近百名活跃成员，我们欢迎热爱技术翻译的你，加入我们的团队，也希望你能和我们一起将国外优秀的文章分享给更多热爱技术的伙伴。
 
 <!-- 但是由于该教程内容均是英文的，所以只有少部分人会关注这里。所以，我们[SpringForAll社区](http://spring4all.com)计划开始组织对这部分高质量内容的翻译工作，以促进Spring这样优秀的框架在国内的发展！由衷的希望Spring大生态变得越来越强大！ -->
 
-我们已经完成的成果：http://doc.spring4all.com/spring-guildes/
+目前我们的成果：http://doc.spring4all.com/spring-guildes/
+
+期待你能和我们一起完成更多的成果，一起分享更多的成果。(不再犹豫？直接加入[>>请戳我<<](https://github.com/SpringForAll/spring-guides-translation/wiki/1-%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC))
 
 ## 如何开始
 
